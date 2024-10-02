@@ -64,7 +64,7 @@ def rfm(all_data):
     return rfm_data
 
 
-all_data = pd.read_csv('main_data.csv')
+all_data = pd.read_csv('dashboard/main_data.csv')
 
 all_data.sort_values(by="order_purchase_timestamp", inplace=True)
 all_data.reset_index(inplace=True)
