@@ -5,7 +5,7 @@
 1. Clone repository menggunakan perintah berikut di terminal:
 
    ```shell
-   git clone https://github.com/ariniamsr/bike-sharing.git
+   https://github.com/mfarzz/Dicoding---Analisis-Data.git
    ```
 
 2. Lakukan penginstalan libray yang digunakan dengan menjalankan perintah berikut di terminal:
